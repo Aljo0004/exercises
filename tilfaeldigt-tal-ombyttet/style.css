@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: none;
+  background: #743442;
+  color: white;
+  cursor: pointer;
+}
+
+#text {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+.dissolve {
+  opacity: 0.2;
+  pointer-events: none;
+}
