@@ -57,7 +57,7 @@ function filterElJonas() {
   });
 }
 
-function filterRugbrødMereEnd1() {
+function filterRugbrodMereEnd1() {
   return vehicles.filter(function (vehicles) {
     if (vehicles.fuel === "Rugbrød" && vehicles.passengers > 1) {
       return true;
