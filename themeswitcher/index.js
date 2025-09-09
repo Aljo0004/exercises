@@ -26,5 +26,7 @@ Forklaring af koden:
 */
 
 // LÆRERS LØSNING
+// document.bodyElm = document.querySelector("body");
 // document.querySelector("#theme").addEventListener("change",(evt)=>{
 // console.log(evt.target.value);
+// bodtElm.dataset.theme = evt.target.value;
